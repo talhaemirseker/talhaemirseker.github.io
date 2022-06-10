@@ -1,6 +1,7 @@
 {
     "Information":
         {
-            "version" : "5.0"
+            "version" : "5.0",
+            "bilgi":"Deneme Mesajı Bugün tarih ananın amı seviyesindedir"
         }
 }
