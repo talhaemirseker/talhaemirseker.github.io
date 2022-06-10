@@ -1,25 +1,6 @@
 {
-    "developerInformation":
+    "Information":
         {
-            "shortV" : "1.0",
-            "buildV" : "1.0.0.2",
-            "developer" : "github/omerhuseyingul"
-        },
-
-    "mathAds":
-        {
-            "questions" : [ 
-                "https://i.imgur.com/MLNd2O7.png",
-                "https://i.imgur.com/q2hMYJy.png",
-                "https://i.imgur.com/UHYuFZ8.png"
-            ],
-
-            "adbanners" : [
-                "https://i.imgur.com/bGZqPMy.png", 
-                "https://i.imgur.com/bXlu32q.png", 
-                "https://i.imgur.com/uzcS6g8.png", 
-                "https://i.imgur.com/sJ4wAkp.png", 
-                "https://i.imgur.com/uE6QQuk.png"
-            ]
+            "version" : "4.0"
         }
 }
